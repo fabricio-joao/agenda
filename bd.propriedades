@@ -1,0 +1,4 @@
+user=novo
+password=dF7* Pm *2
+url=jdbc:mysql://localhost:3306/dbagend
+useUSSL=false
