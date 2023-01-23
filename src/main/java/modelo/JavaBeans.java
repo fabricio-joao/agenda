@@ -10,6 +10,7 @@ public class JavaBeans {
 	public JavaBeans() {
 		
 	}
+	
 	public JavaBeans(String idcon, String nome, String fone, String email) {
 		super();
 		this.idcon = idcon;
