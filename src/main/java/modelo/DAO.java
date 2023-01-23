@@ -5,9 +5,6 @@ import java.sql.DriverManager;
 
 public class DAO {
 	
-	
-	
-	
 /**Modulo conexao**/ 
 //parametros de conexao
 	private String driver = "com.mysql.cj.jdbc.Driver";
